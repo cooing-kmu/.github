@@ -20,7 +20,7 @@
 
 | **송규원** | **정찬우** | **박수연** | **유태근** | **김용민** |
 | :------: |  :------: | :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/81706832?v=4" height=150 width=150> <br/> @gyuwonsong](https://github.com/gyuwonsong) | [<img src="https://avatars.githubusercontent.com/u/66253711?v=4" height=150 width=150> <br/> @chanwoo000](https://github.com/chanwoo000) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @suwith](https://github.com/suwith) | [<img src="https://avatars.githubusercontent.com/u/66227661?v=4" height=150 width=150> <br/> @TaegeunYou](https://github.com/TaegeunYou) | [<img src="https://avatars.githubusercontent.com/u/127489230?v=4" height=150 width=150> <br/> @kym8821](https://github.com/kym8821) |
+| [<img src="https://avatars.githubusercontent.com/u/81706832?v=4" height=150 width=150> <br/> @gyuwonsong](https://github.com/gyuwonsong) | [<img src="https://avatars.githubusercontent.com/u/66253711?v=4" height=150 width=150> <br/> @chanwoo000](https://github.com/chanwoo000) | [<img src="https://avatars.githubusercontent.com/u/85792738?v=4" height=150 width=150> <br/> @suwith](https://github.com/suwith) | [<img src="https://avatars.githubusercontent.com/u/66227661?v=4" height=150 width=150> <br/> @TaegeunYou](https://github.com/TaegeunYou) | [<img src="https://avatars.githubusercontent.com/u/127489230?v=4" height=150 width=150> <br/> @kym8821](https://github.com/kym8821) |
 
 </div>
 
